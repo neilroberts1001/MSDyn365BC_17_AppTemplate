@@ -3,8 +3,5 @@
 	// for the documentation about the extensions.json format
 	"recommendations": [
 		"waldo.crs-al-language-extension"
-		"ms-vsts.team",
-		"ms-vsliveshare.vsliveshare",
-		"ivanhofer.git-assistant"
 	]
 }
