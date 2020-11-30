@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "MainApp"
+		},
+		{
+			"path": "TestApp"
+		},
+		{
+			"path": "Scripts"
+		}
+	],
+	"settings": {
+		"al.packageCachePath": ".\\.alpackages"
+	}
+}

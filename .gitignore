@@ -1,0 +1,8 @@
+*.app
+**/launch.json
+**/*.g.xlf
+**/*.rad
+**/rad.json
+*/.altemplates
+*/.alcache
+**/.alstudio
