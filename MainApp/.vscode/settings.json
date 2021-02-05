@@ -16,5 +16,14 @@
     "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
-    "CRS.ObjectNameSuffix": ".JDXSS"
+    "CRS.ObjectNameSuffix": ".JDXSS",
+    "alVarHelper.ignoreALSuffix": ".JDXSS",
+    "alOutline.codeActionsOnSave": [
+        "SortProperties",
+        "SortVariables"
+    ],
+    "alOutline.fixCodeCopMissingParenthesesOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll":true
+    }
 }
