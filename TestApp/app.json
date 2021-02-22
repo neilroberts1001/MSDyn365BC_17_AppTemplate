@@ -2,7 +2,7 @@
   "id": "d6c92f82-637b-450a-8ce9-0b04ae5fe1ed",
   "name": "MainApp.Test",
   "publisher": "Publisher",
-  "version": "17.0.0.0",
+  "version": "1.0.0.0",
   "brief": "",
   "description": "Test App",
   "privacyStatement": "",
@@ -12,7 +12,7 @@
   "logo": "",
   "dependencies": [
     {
-      "appId": "7ce0b65f-bc3e-497b-95bf-c7538ad8a5e8",
+      "id": "7ce0b65f-bc3e-497b-95bf-c7538ad8a5e8",
       "name": "MainApp",
       "publisher": "Publisher",
       "version": "17.0.0.0"
