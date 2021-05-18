@@ -11,6 +11,8 @@
 		}
 	],
 	"settings": {
-		"al.packageCachePath": ".\\.alpackages"
+		"al.packageCachePath": ".\\.alpackages",
+		"git.enableSmartCommit": false,
+		"git.suggestSmartCommit": false
 	}
 }
